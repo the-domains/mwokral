@@ -1,0 +1,28 @@
+name: mwokral
+favicon: null
+layout_spectrum: 0.7742645642720163
+typography_spectrum: 0.16754153068177402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.986343169817701
+  lightness: 0.5421843121293932
+  saturation: 0.6918820503633469
+  rhythmicContrast: 0.73244684538804
+purpose: []
